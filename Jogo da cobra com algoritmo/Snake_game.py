@@ -1,3 +1,5 @@
+#Tradicional jogo da cobrinha em python
+
 import pygame
 import time
 import random
