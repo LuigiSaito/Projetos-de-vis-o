@@ -1,3 +1,10 @@
+"""
+Codigo faz o reconhecimento de um rosto humano em tempo real usando a webcam do computador, o mesmo usa o OpenCV
+e o metodo Cascade para tal
+
+
+"""
+
 
 import cv2
 
