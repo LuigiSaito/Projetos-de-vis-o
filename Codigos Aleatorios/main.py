@@ -1,3 +1,8 @@
+"""
+Codigo gera um canva que pode ser desenhado, semelhante ao paint
+
+"""
+
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image, ImageDraw
