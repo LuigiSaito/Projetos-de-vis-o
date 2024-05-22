@@ -1,3 +1,8 @@
+"""
+Jogo resolve o classico jogo da cobrinha usando para isso os fundamentos de ciclo Halmitoniano
+
+"""
+
 import pygame
 import time
 import random
